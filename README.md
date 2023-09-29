@@ -1,4 +1,4 @@
-
+[![An image of @jomarchbot's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/jomarchbot)](https://holopin.io/@jomarchbot)
 <h1 align="center">Hi 👋, I'm Urvi Athale</h1>
 <h3 align="center">A Computer Science Student</h3>
 
